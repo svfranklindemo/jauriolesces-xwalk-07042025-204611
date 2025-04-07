@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/jauriolesces/jauriolesces-2025-4-7-14-46-8/:/",
+    "/content/jauriolesces/jauriolesces-2025-4-7-14-46-8/metadata.json:/metadata.json",
+    "/content/jauriolesces/jauriolesces-2025-4-7-14-46-8/redirects.json:/redirects.json"
   ]
 }
